@@ -1,5 +1,4 @@
 let random = Math.floor(Math.random() * 9);
-console.log(random)
 e = campaignTrail_temp;
 if (random == 0,1,2,3,4,5,6,8,9) {
     e = campaignTrail_temp;
